@@ -48,3 +48,8 @@ h2 {
 section {
   padding: 96px 0;
 }
+
+.container {
+  margin: 0 auto;
+  width: 1200px;
+}
