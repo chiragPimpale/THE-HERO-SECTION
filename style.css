@@ -17,6 +17,7 @@ body {
 header {
   background-color: red;
   height: 100vh;
+  position: relative;
 }
 
 nav {
@@ -31,7 +32,15 @@ nav {
   width: 1200px;
   position: absolute;
   left: 50%;
-  right: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+
+  background-color: lightblue;
+}
+
+.header-container-inner {
+  width: 50%;
+  background-color: aliceblue;
 }
 
 h1 {
