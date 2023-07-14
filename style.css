@@ -3,6 +3,11 @@ body {
   color: #444;
 }
 
+.container {
+  margin: 0 auto;
+  width: 1200px;
+}
+
 nav {
   font-size: 20px;
   font-weight: 700;
@@ -47,9 +52,4 @@ h2 {
 
 section {
   padding: 96px 0;
-}
-
-.container {
-  margin: 0 auto;
-  width: 1200px;
 }
