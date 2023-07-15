@@ -18,6 +18,13 @@ header {
   /* background-color: red; */
   height: 100vh;
   position: relative;
+  background-image: linear-gradient(
+      rgba(34, 34, 34, 0.6),
+      rgba(34, 34, 34, 0.6)
+    ),
+    url(hero.jpg);
+  background-size: cover;
+  color: #fff;
 }
 
 nav {
