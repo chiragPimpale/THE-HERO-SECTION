@@ -15,13 +15,13 @@ body {
 }
 
 header {
-  background-color: red;
+  /* background-color: red; */
   height: 100vh;
   position: relative;
 }
 
 nav {
-  background-color: green;
+  /* background-color: green; */
   font-size: 20px;
   font-weight: 700;
   display: flex;
@@ -35,12 +35,12 @@ nav {
   top: 50%;
   transform: translate(-50%, -50%);
 
-  background-color: lightblue;
+  /* background-color: lightblue; */
 }
 
 .header-container-inner {
   width: 50%;
-  background-color: aliceblue;
+  /* background-color: aliceblue;git  */
 }
 
 h1 {
